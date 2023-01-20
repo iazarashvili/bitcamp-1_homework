@@ -27,7 +27,8 @@ body {
     font-style: normal;
     position: relative;
     top: -11px;
-    word-spacing: -5px;
+    word-spacing: -3px;
+    
     
 }
 
@@ -40,7 +41,7 @@ body {
     font-style: normal;
     position: relative;
     top: -11px;
-    
+    letter-spacing: -0.3px;
 }
 
 .first_p{
